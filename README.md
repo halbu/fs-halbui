@@ -42,9 +42,9 @@ A mod for Fallout Shelter (currently only for Steam and Android versions) intend
 
 ## Releases
 
-Version 0.4.3 of halbUI for the Steam platform is here: [Assembly-CSharp.zip](https://github.com/halbu/fs-halbui/releases/download/v0.4.3-steam/Assembly-CSharp.zip)
+Version 0.4.3 of <strong><span style="color:green">halbUI</span></strong> for the Steam platform is here: [Assembly-CSharp.zip](https://github.com/halbu/fs-halbui/releases/download/v0.4.3-steam/Assembly-CSharp.zip)
 
-Version 0.4.3 of <strong><span style="color:green">halbUI</span></strong> remains in a closed testing phase.
+Version 0.4.3 of <strong><span style="color:green">halbUI</span></strong> for Android remains in a closed testing phase.
 
 ## Installation
 
