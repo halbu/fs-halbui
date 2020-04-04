@@ -46,6 +46,9 @@ Version 0.4.3 of <strong><span style="color:green">halbUI</span></strong> for th
   - [Assembly-CSharp.dll](https://github.com/halbu/fs-halbui/releases/download/v0.4.3-steam/Assembly-CSharp.dll)
   - [zipped version](https://github.com/halbu/fs-halbui/releases/download/v0.4.3-steam/halbUI_v0.4.3_Steam.zip)
 
+Version 0.4.3 of <strong><span style="color:green">halbUI</span></strong> for the Bethesda Launcher version is here:
+  - [zipped version](https://github.com/halbu/fs-halbui/releases/download/v0.4.3-steam/halbUI_v0.4.3_Bethesda.zip) (this version is untested and should be considered experimental)
+
 Version 0.4.3 of <strong><span style="color:green">halbUI</span></strong> for Android remains in a closed testing phase.
 
 ## Installation
