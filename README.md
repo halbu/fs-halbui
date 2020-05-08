@@ -1,7 +1,7 @@
 <p align="center">
   <img src=".\media\halbui_mod.png">
   <br>
-  <b>v0.4.3</b>
+  <b>v0.5.0</b>
 </p>
 
 # <strong><span style="color:green">halbUI</span></strong> for Fallout Shelter
@@ -42,14 +42,12 @@ A mod for Fallout Shelter (currently only for Steam and Android versions) intend
 
 ## Releases
 
-Version 0.4.3 of <strong><span style="color:green">halbUI</span></strong> for the Steam platform is here:
-  - [Assembly-CSharp.dll](https://github.com/halbu/fs-halbui/releases/download/v0.4.3-steam/Assembly-CSharp.dll)
-  - [zipped version](https://github.com/halbu/fs-halbui/releases/download/v0.4.3-steam/halbUI_v0.4.3_Steam.zip)
+Version 0.5.0 of <strong><span style="color:green">halbUI</span></strong> for the Steam platform is here:
+  - [zipped version](https://github.com/halbu/fs-halbui/releases/download/v0.5.0/halbUI_v0.5.0_Steam.zip)
 
-Version 0.4.3 of <strong><span style="color:green">halbUI</span></strong> for the Bethesda Launcher version is here:
-  - [zipped version](https://github.com/halbu/fs-halbui/releases/download/v0.4.3-steam/halbUI_v0.4.3_Bethesda.zip) (this version is untested and should be considered experimental)
+Version 0.5.0 of <strong><span style="color:green">halbUI</span></strong> for the Bethesda Launcher version is on the way.
 
-Version 0.4.3 of <strong><span style="color:green">halbUI</span></strong> for Android remains in a closed testing phase.
+Version 0.5.0 of <strong><span style="color:green">halbUI</span></strong> for Android remains in a closed testing phase.
 
 ## Installation
 
