@@ -45,7 +45,8 @@ A mod for Fallout Shelter (currently only for Steam and Android versions) intend
 Version 0.5.0 of <strong><span style="color:green">halbUI</span></strong> for the Steam platform is here:
   - [zipped version](https://github.com/halbu/fs-halbui/releases/download/v0.5.0/halbUI_v0.5.0_Steam.zip)
 
-Version 0.5.0 of <strong><span style="color:green">halbUI</span></strong> for the Bethesda Launcher version is on the way.
+Version 0.5.0 of <strong><span style="color:green">halbUI</span></strong> for the Bethesda Launcher version is here:
+  - [zipped version](https://github.com/halbu/fs-halbui/releases/download/v0.5.0/halbUI_v0.5.0_Bethesda.zip)
 
 Version 0.5.0 of <strong><span style="color:green">halbUI</span></strong> for Android remains in a closed testing phase.
 
